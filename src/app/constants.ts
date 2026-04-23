@@ -1,0 +1,9 @@
+export const VIEWBOX_PADDING = 500;
+export const STORAGE_KEY = "floorify:autosave:v1";
+export const MAX_HISTORY = 100;
+export const MIN_VIEWBOX_SIZE = 400;
+export const MAX_VIEWBOX_SIZE = 50000;
+export const DEFAULT_GRID_SIZE = 100;
+export const POINT_DRAG_PICK_DISTANCE = 44;
+export const WALL_DRAG_PICK_DISTANCE = 56;
+export const WALL_LABEL_OFFSET = 72;
